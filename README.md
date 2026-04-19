@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yongqiao 👋</h1>
 
 <p align="center">
-  <b>Mobile & Full-Stack Developer · University Malaya</b>
+  <b>Full-Stack Developer · University Malaya</b>
 </p>
 
 <p align="center">
