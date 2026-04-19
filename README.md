@@ -161,6 +161,6 @@
 | 📧 Email | yongqiaoloh6@gmail.com |
 | 💼 LinkedIn | www.linkedin.com/in/lohyongqiao-liam |
 | 🌐 Portfolio | [Coming Soon] |
-| 🐙 GitHub | [github.com/Yongqiao662](https://github.com/Yongqiao662) |
+| 🐙 GitHub | [github.com/liamloh](https://github.com/liamloh) |
 
 ---
