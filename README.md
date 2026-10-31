@@ -21,7 +21,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Science student at **University Malaya** · Dean's List
-- 🏆 7 hackathon podium finishes incl. 1 Champion — **Cursor · CodeFest · CodeNection · China Mobile AI · ASEAN AI · UM Hackathon · ImagineHack**
+- 🏆 7 Hackathon Award Winner — **Cursor · CodeFest · CodeNection · China Mobile AI · ASEAN AI · UM Hackathon · ImagineHack**
 - 🎤 Featured speaker at **Ryt Bank & Cursor LLM Talk** — sharing real-world AI agent development
 - 📱 Full-Stack & Mobile Developer building with **Flutter, Node.js, and Next.js**
 - 🤖 Passionate about **AI agents, real-time systems**, and tech that solves real problems
