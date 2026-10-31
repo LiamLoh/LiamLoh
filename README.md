@@ -21,7 +21,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Science student at **University Malaya** · Dean's List
-- 🏆 6x National Hackathon Winner — **CodeFest · Cursor · CodeNection · China Mobile AI Agent**
+- 🏆 7 hackathon podium finishes incl. 1 Champion — **Cursor · CodeFest · CodeNection · China Mobile AI · ASEAN AI · UM Hackathon · ImagineHack**
 - 🎤 Featured speaker at **Ryt Bank & Cursor LLM Talk** — sharing real-world AI agent development
 - 📱 Full-Stack & Mobile Developer building with **Flutter, Node.js, and Next.js**
 - 🤖 Passionate about **AI agents, real-time systems**, and tech that solves real problems
@@ -82,7 +82,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛡️ [SafeZoneX](https://github.com/Yongqiao662/SafeZoneX)
+### 🛡️ [SafeZoneX](https://github.com/LiamLoh/SafeZoneX)
 > **Campus safety in one tap** — a full-stack mobile + web platform for real-time emergency response
 
 - 📱 Flutter mobile app with one-tap SOS, live GPS tracking, and walking-partner matching
@@ -91,7 +91,7 @@
 - 🗺️ Google Maps & Directions API integration with campus safety zone heatmaps
 - 🔗 **Stack:** Flutter · Node.js · Express · MongoDB · Socket.io · TensorFlow.js · Google Maps
 
-### 📈 [Cypher](https://github.com/Yongqiao662/Cypher)
+### 📈 [Cypher](https://github.com/LiamLoh/Cypher)
 > **Institutional-grade AI financial analysis** — SEC filings, Bull vs Bear debates, and audio research summaries
 
 - 📄 Auto-extracts SEC 10-K/10-Q filings with AI-generated insights and investment perspectives
@@ -100,7 +100,7 @@
 - 📊 Live market integration with TradingView and real-time data feeds
 - 🔗 **Stack:** React · Vite · TailwindCSS · Express.js · Claude Sonnet 4 · ElevenLabs · Apify
 
-### 🔮 [Specter](https://github.com/Yongqiao662/Specter)
+### 🔮 [Specter](https://github.com/LiamLoh/Specter)
 > **Autonomous AI agent for UX testing** — vision-based signup flow analysis with cognitive friction scoring
 
 - 👁️ Multimodal navigator using Claude Vision — no hardcoded selectors, fully autonomous decision-making
@@ -109,7 +109,7 @@
 - 🔧 Specter Healer auto-generates GitHub PRs with AI-suggested UX fixes via NVIDIA NIM
 - 🔗 **Stack:** Next.js · FastAPI · Claude Vision · Kokoro-ONNX TTS · Playwright · NVIDIA NIM
 
-### 🌙 [AMANA](https://github.com/Yongqiao662/AMANA)
+### 🌙 [AMANA](https://github.com/LiamLoh/AMANA)
 > **AI-powered Halal certification assistant** — democratising JAKIM compliance for Malaysian SMEs
 
 - 🔍 Ingredient Guard: snap & scan product labels with GPT-4V + voice search in Manglish/BM/EN via Whisper
