@@ -87,9 +87,8 @@
 
 - 📱 Flutter mobile app with one-tap SOS, live GPS tracking, and walking-partner matching
 - 🖥️ Real-time web dashboard for campus security teams using WebSocket/Socket.io
-- 🤖 AI-powered face verification (TensorFlow.js / face-api.js) before walking partnerships
 - 🗺️ Google Maps & Directions API integration with campus safety zone heatmaps
-- 🔗 **Stack:** Flutter · Node.js · Express · MongoDB · Socket.io · TensorFlow.js · Google Maps
+- 🔗 **Stack:** Flutter · Node.js · Express · MongoDB · Socket.io · Google Maps
 
 ### 📈 [Cypher](https://github.com/LiamLoh/Cypher)
 > **Institutional-grade AI financial analysis** — SEC filings, Bull vs Bear debates, and audio research summaries
